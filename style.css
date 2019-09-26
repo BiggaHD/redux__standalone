@@ -1,0 +1,43 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  background-color: #17a2b8;
+  align-items: center;
+  justify-content: center;
+  align-self: center;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 100%;
+  width: 100%;
+  margin-top: 15%;
+}
+
+.child {
+  background-color: #f8f9fa;
+  border: 1px solid black;
+  box-shadow: 5px 10px;
+  padding: 1rem;
+}
+
+h1 {
+  color: lightseagreen;
+}
+
+h4 {
+  color: seagreen;
+}
+
+span {
+  color: gray;
+}
+
+p {
+  color: black;
+}
